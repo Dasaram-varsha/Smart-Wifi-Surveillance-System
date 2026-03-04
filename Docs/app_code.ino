@@ -523,3 +523,4 @@ void loop()
   sendCameraPicture(); 
   Serial.printf("SPIRam Total heap %d, SPIRam Free Heap %d\n", ESP.getPsramSize(), ESP.getFreePsram());
 }
+
